@@ -1,6 +1,7 @@
 # Home_Price_Prediction
 
 Overview
+
 This project aims to predict home prices based on various features using machine learning algorithms. The goal is to build a predictive model that can estimate the price of a house given its attributes such as location, size, and number of bedrooms.
 
 Table of Contents
